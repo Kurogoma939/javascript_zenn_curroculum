@@ -1,0 +1,11 @@
+title: "VISIONARY JAPAN FRONTEND"
+summary: "JavaScript"
+topics: ["JavaScript"] # トピック
+published: true # falseだと下書き
+price: 0 # 有料の場合200〜5000
+chapters:
+  - section_01
+  - section_02
+  - section_03
+  - section_04
+  - section_05
